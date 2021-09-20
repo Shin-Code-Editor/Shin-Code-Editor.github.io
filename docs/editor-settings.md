@@ -11,7 +11,7 @@ The editor settings tab can be used to change various settings of Wecde.
 
 This is an example of using a Github app token to connect to your Github repositories. Cloning or pulling public repositories will not require an app token.
 
-<img width="300" src="./img/editor-settings/git-credentials-1.png">
+![./img/editor-settings/git-credentials-1.png](./img/editor-settings/git-credentials-1.png)
 
 If an invalid app token is set, you will receive "Invalid credentials" error message or "Authentication Error" regardless if the repository is public or private. Make sure you grant the token proper access writes, and allow additional settings to push to the Github/Gitlab/Bitbucket branch. (For example, the master branch may be locked and prevent pushing which will also result in an error.) To properly create an access token, please see [Creating an Access Token for Wecde.](/create-app-token.html)
 
@@ -96,7 +96,7 @@ Changes the font size of the code editor.
 
 Toggles the line numbers in the code editor. Disable line numbers to create more horizontal editing space for the editor.
 
-<img width="300" src="./img/editor-settings/line-numbers.png">
+![./img/editor-settings/line-numbers.png](./img/editor-settings/line-numbers.png)
 
 [Back to Top](#editor-settings)
 
@@ -104,7 +104,7 @@ Toggles the line numbers in the code editor. Disable line numbers to create more
 
 Show invisible characters such as new lines, return carriage, spaces, and tabs. Used to visually differentiate spaces from tabs.
 
-<img width="300" src="./img/editor-settings/invisibles.png">
+![./img/editor-settings/invisibles.png](./img/editor-settings/invisibles.png)
 
 [Back to Top](#editor-settings)
 

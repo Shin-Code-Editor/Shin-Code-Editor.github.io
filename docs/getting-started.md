@@ -89,7 +89,7 @@ From the Projects tab menu, click on the GIT icon and select **Clone Repo**. Thi
 Simple ZIP files can be imported into Wecde. ZIP Archives offer a way to archive and export/import projects that does not rely on GIT. Archives offer a simple way to share small projects. To import a ZIP archive, follow the steps below:
 
 1. Open the Projects menu tab, click on the + icon and select **Import ZIP**.
-<img width="300" src="./img/getting-started/import-zip.png">
+![./img/getting-started/import-zip.png](./img/getting-started/import-zip.png)
 
 2. This should open up a system dialog to select a ZIP file depending on what system you are using. Select a ZIP file to import. Note: ZIP files do not store file encodings in the archive, it is assume that the file encoding is UTF-8, which might not be the case if the ZIP file was generated on an older Windows computer or using external tools. There is no way for the editor to detect what encoding the ZIP file is using, so other encodings may result in data corruption or an import error.
 
@@ -100,10 +100,10 @@ Simple ZIP files can be imported into Wecde. ZIP Archives offer a way to archive
 Labs offer a neat way to learn from other projects created by other devs and programmers. There are labs using D3, Three.js that range from simple games to machine learning demos. To create a lab, follow the steps below.
 
 1. Open the Projects menu tab, click the + icon, and select **View Labs**. This will bring you to the Labs gallery page where you can choose from all of the labs available.
-<img width="300" src="./img/getting-started/import-zip.png">
+![./img/getting-started/import-zip.png](./img/getting-started/import-zip.png)
 
 2. Click on any lab to create a project that duplicates the code as a local project.
-<img width="300" src="./img/getting-started/create-labs.png">
+![./img/getting-started/create-labs.png](./img/getting-started/create-labs.png)
 
 [Back to Top](#getting-started)
 
@@ -117,11 +117,11 @@ To create a new file you need to have created and open a project first. To add a
 
 1. Open the File tab menu, click the + icon and select **New File**.
 
-    <img width="300" src="./img/getting-started/new-file.png">
+    ![./img/getting-started/new-file.png](./img/getting-started/new-file.png)
 
 2. Enter a file name or file path into the prompt and press "__OK__". *File paths use '/' as the path separator.*
     
-    <img width="300" src="./img/getting-started/new-file-modal.png">
+    ![./img/getting-started/new-file-modal.png](./img/getting-started/new-file-modal.png)
 
 [Back to Top](#getting-started)
 
@@ -131,15 +131,15 @@ To create a new folder you need to have created a and opened a project first. To
 
 1. Open the File tab menu, click the + icon and select **New Folder**.
 
-    <img width="300" src="./img/getting-started/new-file.png">
+    ![./img/getting-started/new-file.png](./img/getting-started/new-file.png)
     
     b. Alternatively, you can right click the folder you want to create folder under. This will open up the following menu:
     
-     <img width="300" src="./img/getting-started/subfolder-menu.png">
+     ![./img/getting-started/subfolder-menu.png](./img/getting-started/subfolder-menu.png)
 
 2. Enter a folder name or folder path into the prompt and press "__OK__". *If the folder path's directory does not exist, then the directory will be created automatically.*
 
-    <img width="300" src="./img/getting-started/new-folder-modal.png">
+    ![./img/getting-started/new-folder-modal.png](./img/getting-started/new-folder-modal.png)
 
 [Back to Top](#getting-started)
 
@@ -149,11 +149,11 @@ You can choose existing files on your device to upload to your project. To uploa
 
 1. Open the File tab menu, click the + icon and select **Upload File**.
 
-    <img width="300" src="./img/getting-started/new-file.png">
+    ![./img/getting-started/new-file.png](./img/getting-started/new-file.png)
     
     b. Alternatively, you can right click the folder you want to upload under. This will open up the following menu:
     
-     <img width="300" src="./img/getting-started/subfolder-menu.png">
+     ![./img/getting-started/subfolder-menu.png](./img/getting-started/subfolder-menu.png)
 
 2. Select the file that you want to upload. After selecting, the file should appear under the folder you selected or under the project root folder.
 
@@ -170,12 +170,11 @@ The editor allows for previewing of HTML pages and Markdown files. Additional fi
 Previewing markdown `.md` files can be done following the steps below.
 
 1. Click on the Menu icon next to the file and select **Preview** option.
-
-    <img width="442" src="./img/getting-started/preview-markdown.png">
+    ![./img/getting-started/preview-markdown.png](./img/getting-started/preview-markdown.png)
 
     Preview of the Markdown file, shown in the editor view.
 
-    <img width="442" src="./img/getting-started/preview-md.png">
+    ![./img/getting-started/preview-md.png](./img/getting-started/preview-md.png)
 
 [Back to Top](#getting-started)
 
@@ -190,7 +189,7 @@ Previewing HTML `.html` is the default when you click the Play ▷ button. By de
 
 To preview HTML files on mobile, click the Play ▷ button in the main view:
 
-<img width="300" src="./img/getting-started/preview-icon.png">
+![./img/getting-started/preview-icon.png](./img/getting-started/preview-icon.png)
 
 ### Default Launch File
 
@@ -239,7 +238,7 @@ The arrow keys offer the useful way to navigate code. The arrow keys are part of
 The arrow keys also provide useful navigation function when using autocomplete. Simply use the the Up and Down arrows to change Autocomplete selection and use the Tab key to complete it.
 
 
-<img width="300" src="./img/getting-started/arrow-key-autocomplete.png" />
+![./img/getting-started/arrow-key-autocomplete.png](./img/getting-started/arrow-key-autocomplete.png)
 
 [Back to Top](#getting-started)
 
@@ -255,7 +254,7 @@ Emmet is a shorthand syntax to reduce typing when editing HTML or CSS files. Emm
 
 Copy and Pasting can be done in 2 ways. One way is to use the Touch Keyboard extra section. Click on the >> Key on the Touch Keyboard to access additional keys for Copy & Paste.
 
-<img width="300" src="./img/getting-started/copy-paste-keyboard.png">
+![./img/getting-started/copy-paste-keyboard.png](./img/getting-started/copy-paste-keyboard.png)
 
 To select text, use a long press to begin selection. You can use the cursor keys provided with the selection to adjust the selection. An action bar will appear with keys to Cut and Paste.
 
@@ -285,7 +284,7 @@ The extra menu in the Touch keyboard also provides the option to reformat the co
 
 Within the line number gutter, there will be icons to show syntax errors, warnings, or bad practices. To access the information reported by the syntax validation feature, click on the icon to see the message. Please note that both the **Autocomplete/Check Syntax** and **Line Number** settings must be enabled to use this feature. See [Editor Settings](editor-settings.html) for more details.
 
-<img width="300" src="./img/getting-started/syntax-error.png">
+![./img/getting-started/syntax-error.png](./img/getting-started/syntax-error.png)
 
 [Back to Top](#getting-started)
 

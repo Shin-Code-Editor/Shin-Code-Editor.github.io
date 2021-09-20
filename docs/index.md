@@ -20,25 +20,25 @@ Wecde (pronouced as "shIn") Editor enables you to work on JavaScript projects wh
 
 Code hints are an essential aid to mastering external libraries. They also offer a convenience in your own code, and provide incentives to better document code with JSDoc comment strings.
 
-<img width="520" src="./img/index/hint.png">
+![./img/index/hint.png](./img/index/hint.png)
 
 ### Autocompletion
 
 Make less typos with the awesome code completion provided by the editor. Code completions are handled by the awesome TypeScript libraries provided by VS Code.
 
-<img width="442" src="./img/getting-started/arrow-key-autocomplete.png">
+![./img/getting-started/arrow-key-autocomplete.png](./img/getting-started/arrow-key-autocomplete.png)
 
 ### Themes
 
 The editor supports a variety of themes including XCode, Chrome, Dracula, Monokai, Ayu Mirage, and Ayu Light.
 
-<img width="520" src="./img/index/theme.png">
+![./img/index/theme.png](./img/index/theme.png)
 
 ### Markdown
 
 If you ever need to preview a Markdown file, you can do so right in the editor. Built upon the awesome [Markdown-it](https://github.com/markdown-it/markdown-it/) library.
 
-<img width="442" src="./img/index/markdown.png">
+![./img/index/markdown.png](./img/index/markdown.png)
 
 ### Github
 
@@ -46,19 +46,19 @@ Export your changes right to your Github repo. If you need to make live edits to
 
 Be sure to give it a try. Also please checkout our Github [repos](https://github.com/wecde) on more info on [embedding ](https://github.com/wecde/wecde-embed) Wecde in your own site as well as libraries that Wecde is built upon.
 
-<img width="300" src="./img/index/git.png">
+![./img/index/git.png](./img/index/git.png)
 
 ### Import & Export Zip
 
 An alternative to Github commits is exporting your project as a zip file. You can transfer your project to another device by the reverse operation of importing. Note that the exported file may have Unix-style newlines (meaning a single "\n" character instead of "\r\n", however, any proper code editor should handle this automatically in Windows.
 
-<img width="300" src="./img/getting-started/import-zip.png">
+![./img/getting-started/import-zip.png](./img/getting-started/import-zip.png)
 
 ### Search
 
 Project-wide code searching is a useful tool for any JavaScript development. Navigating between files by keywords and refactoring are all made easier with an awesome fast search feature. There's still room to improve with the editor's search, so we need your [feedback](https://github.com/wecde/Shin Code-issues) on any ideas to improve the editor!
 
-<img width="300" src="./img/index/search.png">
+![./img/index/search.png](./img/index/search.png)
 
 ### Live Preview
 

@@ -24,11 +24,11 @@ Cloning a public repo does not require any credentials.
 
 1. Open the Clone Repo dialog. Click the ⑂ button on the Projects tab.
 
-    <img width="300" src="./img/git-features/clone-repo.png">
+    ![./img/git-features/clone-repo.png](./img/git-features/clone-repo.png)
 
 2. Enter the Repo URL (i.e. `https://github.com/arturkot/the-house-game.git`)
 
-    <img width="300" src="./img/git-features/clone-repo-1.png">
+    ![./img/git-features/clone-repo-1.png](./img/git-features/clone-repo-1.png)
 
 4. Click OK and the cloning should begin. You can access your cloned project from the Project menu tab.
 
@@ -63,14 +63,14 @@ To connect a local repostiory to a remote one (BitBucket/Gitlab/Github), follow 
     
     a. Go to [Create Repo](https://github.com/new)) page. Enter a repository name.
     
-    <img width="300" src="./img/git-features/create-remote-1.png">
+    ![./img/git-features/create-remote-1.png](./img/git-features/create-remote-1.png)
     
     b. Select if the repo will be public or private. For private repo you would need to create an app token to access it. See [Creating an App Token](/create-app-token.html) for more details.
     
-    <img width="300" src="./img/git-features/create-remote-2.png">
+    ![./img/git-features/create-remote-2.png](./img/git-features/create-remote-2.png)
     
     c. DO NOT initialize the repository with a README as this will create a first commit that will be different from your local repository. The repo must be empty to not have any conflicts with the local one. Click **Create repository** button.
-    <img width="300" src="./img/git-features/create-remote-3.png">
+    ![./img/git-features/create-remote-3.png](./img/git-features/create-remote-3.png)
     
     d. Save the HTTPS remote repository URL for your remote. You will need this later.
 
@@ -99,7 +99,7 @@ If you want to sync your commits to your remote repository, you can do so pushin
 ### Authentication Error
 
 If you get an authentication error message the token that you created is not valid for the repo that you are pushing to. Check that the provider is set correctly for the token, and that your token has the proper repository access permissions. See [Creating an App Token](/create-app-token.html) page for more details.
-<img width="300" src="./img/git-features/authentication-error.png">
+![./img/git-features/authentication-error.png](./img/git-features/authentication-error.png)
 
 [Back to Top](#git-guide)
 

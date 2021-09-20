@@ -6,7 +6,7 @@ Currently, the only way to import an existing project is through Github or a loc
 
 To import a zip file with your project contained within, select the option "__Import Zip File__" from the menu in the "Projects" tab.
 
-<img width="300" src="./img/getting-started/import-zip.png">
+![./img/getting-started/import-zip.png](./img/getting-started/import-zip.png)
 
 In the prompt that appears, enter a new project name for the imported zip archive.
 
