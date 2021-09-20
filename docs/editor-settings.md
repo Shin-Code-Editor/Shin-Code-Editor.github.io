@@ -1,6 +1,6 @@
 # Editor Settings
 
-The editor settings tab can be used to change various settings of Shin Code Editor.
+The editor settings tab can be used to change various settings of Wecde.
 > Here are some standout settings. The rest of
 
 ---
@@ -13,7 +13,7 @@ This is an example of using a Github app token to connect to your Github reposit
 
 <img width="300" src="./img/editor-settings/git-credentials-1.png">
 
-If an invalid app token is set, you will receive "Invalid credentials" error message or "Authentication Error" regardless if the repository is public or private. Make sure you grant the token proper access writes, and allow additional settings to push to the Github/Gitlab/Bitbucket branch. (For example, the master branch may be locked and prevent pushing which will also result in an error.) To properly create an access token, please see [Creating an Access Token for Shin Code Editor.](/create-app-token.html)
+If an invalid app token is set, you will receive "Invalid credentials" error message or "Authentication Error" regardless if the repository is public or private. Make sure you grant the token proper access writes, and allow additional settings to push to the Github/Gitlab/Bitbucket branch. (For example, the master branch may be locked and prevent pushing which will also result in an error.) To properly create an access token, please see [Creating an Access Token for Wecde.](/create-app-token.html)
 
 [Back to Top](#editor-settings)
 

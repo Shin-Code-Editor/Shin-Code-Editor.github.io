@@ -45,7 +45,7 @@
 
 ## Creating Your First Project
 
-There are a few ways to create a new project in `Shin Code Editor`. These include:
+There are a few ways to create a new project in `Wecde`. These include:
 
   * [Create a new Project from Templates](#create-new-project)
   * [Cloning a Git Repo](#cloning-a-git-repo)
@@ -86,7 +86,7 @@ From the Projects tab menu, click on the GIT icon and select **Clone Repo**. Thi
 
 ### Import a ZIP file
 
-Simple ZIP files can be imported into Shin Code Editor. ZIP Archives offer a way to archive and export/import projects that does not rely on GIT. Archives offer a simple way to share small projects. To import a ZIP archive, follow the steps below:
+Simple ZIP files can be imported into Wecde. ZIP Archives offer a way to archive and export/import projects that does not rely on GIT. Archives offer a simple way to share small projects. To import a ZIP archive, follow the steps below:
 
 1. Open the Projects menu tab, click on the + icon and select **Import ZIP**.
 <img width="300" src="./img/getting-started/import-zip.png">
@@ -202,7 +202,7 @@ It WebServer httpd
 
 ## Files
 
-These are more advanced features that will be covered for Shin Code Editor. For the basics, please visit the section above on Creating a Project, Adding Files, and Previewing.
+These are more advanced features that will be covered for Wecde. For the basics, please visit the section above on Creating a Project, Adding Files, and Previewing.
 
 ### Cut/Paste Files
 

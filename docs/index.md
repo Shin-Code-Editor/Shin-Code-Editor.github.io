@@ -1,16 +1,16 @@
-# Shin Code Code Editor
+# Wecde - Shin Code Editor
 
-Shin Code Editor (pronouced as "shIn") Editor enables you to work on JavaScript projects whenever, wherever. If its a new single-page app, a game, data visualizations, 3D simulations, or anything else that can be realized  using the magic of JavaScript, HTML, and CSS, Shin Code Editor hopes to be the code editor of your choice.
+Wecde (pronouced as "shIn") Editor enables you to work on JavaScript projects whenever, wherever. If its a new single-page app, a game, data visualizations, 3D simulations, or anything else that can be realized  using the magic of JavaScript, HTML, and CSS, Wecde hopes to be the code editor of your choice.
 
 ### Download App
 
 #### Android
-[Shin Code Editor](https://wecde.github.io) is currently available on the **Play Store** for **Android 5.0+** and on the **App Store** for **iOS 10.3+**.
+[Wecde](https://wecde.github.io) is currently available on the **Play Store** for **Android 5.0+** and on the **App Store** for **iOS 10.3+**.
 
 <a href='https://play.google.com/store/apps/details?id=io.Shin Code&hl=en_CA&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='153'/></a>
 
 #### iOS
-<a href="https://apps.apple.com/us/app/Shin Code-editor/id1507309511?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-04-12&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;margin-left:10px;"></a>
+<a href="https://apps.apple.com/us/app/wecde/id1507309511?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-04-12&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;margin-left:10px;"></a>
 
 ---
 
@@ -44,7 +44,7 @@ If you ever need to preview a Markdown file, you can do so right in the editor. 
 
 Export your changes right to your Github repo. If you need to make live edits to Github, you can do so right in the editor. The editor provides basic Github integration including code diffs, highlighted files with changes, pulling and committing.
 
-Be sure to give it a try. Also please checkout our Github [repos](https://github.com/wecde) on more info on [embedding ](https://github.com/wecde/sce-embed) Shin Code Editor in your own site as well as libraries that Shin Code Editor is built upon.
+Be sure to give it a try. Also please checkout our Github [repos](https://github.com/wecde) on more info on [embedding ](https://github.com/wecde/wecde-embed) Wecde in your own site as well as libraries that Wecde is built upon.
 
 <img width="300" src="./img/index/git.png">
 
@@ -62,6 +62,6 @@ Project-wide code searching is a useful tool for any JavaScript development. Nav
 
 ### Live Preview
 
-Live previewing is a feature so essential, its barely worth mentioning. However... Shin Code Editor supports two modes of previewing, in a separate browser tab as well as an inline iframe for quicker edits-to-preview.
+Live previewing is a feature so essential, its barely worth mentioning. However... Wecde supports two modes of previewing, in a separate browser tab as well as an inline iframe for quicker edits-to-preview.
 
-Additionally, previewing also work great in Shin Code Editor's mobile app. So if your interested in giving JavaScript development a try on your mobile device, be sure to download our [mobile app](https://play.google.com/store/apps/details?id=git.shin.code_editor&hl=en_CA&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1).
+Additionally, previewing also work great in Wecde's mobile app. So if your interested in giving JavaScript development a try on your mobile device, be sure to download our [mobile app](https://play.google.com/store/apps/details?id=git.shin.code_editor&hl=en_CA&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1).

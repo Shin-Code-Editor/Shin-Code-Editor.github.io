@@ -2,7 +2,7 @@
 
 An app token is required for accessing GIT repositories for different providers. You can change the credentials used for GIT under the settings page. You can set different GIT credentials for each GIT provider (i.e. Github, Gitlab, Bitbucket, Other)
 
-Note that an app token password is not required for some providers and you may use your username and password to login directly. Additionally, if you have enabled 2-factor Authentication, you MUST use an app token and not your password. Shin Code Editor does not collect any login or credential information, but to improve your privacy and for your peace of mind, it is recommended to use an app password so your actual password is not exposed.
+Note that an app token password is not required for some providers and you may use your username and password to login directly. Additionally, if you have enabled 2-factor Authentication, you MUST use an app token and not your password. Wecde does not collect any login or credential information, but to improve your privacy and for your peace of mind, it is recommended to use an app password so your actual password is not exposed.
 
 The process of creating an app token is different for each provider.
 

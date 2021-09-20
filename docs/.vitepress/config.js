@@ -2,8 +2,8 @@ const path = require("path");
 const fs = require("fs");
 
 module.exports = {
-  title: "SCE - Documentation",
-  description: "Documentation for Shin Code Editor",
+  title: "Wecde",
+  description: "Documentation for Wecde",
   themeConfig: {
     repo: "wecde/wecde.github.io",
     docsDir: "/",

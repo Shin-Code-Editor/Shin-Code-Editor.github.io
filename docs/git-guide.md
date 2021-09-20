@@ -156,7 +156,7 @@ You can delete local branches but not remote branches. Remote branch deleting wi
 
 ## File Diffs
 
-Sometimes you need to see changes between your local repository and the remote repository; this is when a diff viewer is needed. Shin Code Editor has a built-in diff viewer for files that have changed from the remote repo.
+Sometimes you need to see changes between your local repository and the remote repository; this is when a diff viewer is needed. Wecde has a built-in diff viewer for files that have changed from the remote repo.
 
 [Back to Top](#git-guide)
 
