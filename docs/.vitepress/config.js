@@ -23,6 +23,10 @@ module.exports = {
         link: "/",
       },
       {
+        text: "Live App",
+        link: "https://wecde.github.io/wecde",
+      }, 
+      {
         text: "Download",
         link: "https://github.com/wecde/wecde/releases",
       },
