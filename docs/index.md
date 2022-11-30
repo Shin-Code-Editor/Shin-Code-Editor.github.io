@@ -4,12 +4,9 @@ Wecde (pronouced as "shIn") Editor enables you to work on JavaScript projects wh
 
 ### Download App
 
-#### Android
-[Wecde](https://wecde.github.io) is currently available on the **Play Store** for **Android 5.0+** and on the **App Store** for **iOS 10.3+**.
-
-<a href='https://play.google.com/store/apps/details?id=io.Shin Code&hl=en_CA&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='153'/></a>
-
 #### iOS
+[Wecde](https://wecde.github.io) is currently available on the **App Store** for **iOS 10.3+**.
+
 <a href="https://apps.apple.com/us/app/wecde/id1507309511?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-04-12&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;margin-left:10px;"></a>
 
 ---
